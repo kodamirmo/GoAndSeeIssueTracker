@@ -1,7 +1,9 @@
-Issue tracking
+#Issue tracking
 
-#Categorias:
+##Categorias:
+Ordenadas por orden de prioridad.
 
+###Blocking bug
+###Non blocking bug
+###Unexpected behaviour
 ###Feature enhancement
-###Bug [Blocking behaviour]
-###Bug [Non blocking]
